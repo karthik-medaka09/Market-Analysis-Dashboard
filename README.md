@@ -17,3 +17,10 @@ o	TAT by month.
 o	Country wise selection.
 
 o	Year and month wise selection.
+
+## Dashboard
+![Dashboard market analysis](https://github.com/user-attachments/assets/bcf52eff-4aa6-47cf-bed9-e2690964799c)
+
+## Conclusion:
+The market analysis project utilizing Power BI has provided valuable insights into the current market trends, customer behavior, and key performance indicators (KPIs) critical to the business. Through the use of interactive dashboards, detailed visualizations, and dynamic reporting, we have been able to identify growth opportunities, market risks, and areas for operational improvement.
+
